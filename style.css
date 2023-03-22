@@ -2,13 +2,13 @@
     font-size: medium;
     padding: 1%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:   #a7a7a7  ;
+    background-color:   #CFCFC4  ;
 }
 li{
     text-align: left;
 }
 .foto{
-    text-align: left;
+    text-align: center;
     padding-left: 4%;
 }
 img{
