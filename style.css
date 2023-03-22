@@ -9,7 +9,9 @@ li{
 .foto{
     text-align: left;
     padding-left: 4%;
-    border-radius: 15%;
+}
+img{
+    border-radius: 40px;
 }
 .titulo{
     text-align: center;
